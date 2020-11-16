@@ -1,0 +1,15 @@
+.authenticationContainer {
+    text-align: center;
+    width: 450px;
+}
+.formContainer {
+    border: 1px solid gray;
+    text-align: left;
+    padding: 40px;
+}
+.formContainer input {
+    border: none;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 25px;
+    width: 100%;
+}

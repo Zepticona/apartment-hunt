@@ -2,7 +2,12 @@
 const Home = () => {
     return (
         <div>
-            <h2>This is home page. Add all home components here.</h2>
+            <div>
+                    <input type="email" placeholder="Enter your email"  />
+                    <br/>
+                    <input type="password" placeholder="Enter your password"  />
+                </div>
+                <button>New User</button>
         </div>
     );
 };
